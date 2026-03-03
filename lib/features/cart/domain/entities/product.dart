@@ -1,7 +1,7 @@
 class Product {
   final String id;
   final String name;
-  final String price;
+  final double price;
 
   const Product ({
     required this.id,

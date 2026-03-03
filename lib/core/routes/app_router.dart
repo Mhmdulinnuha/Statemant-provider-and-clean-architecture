@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../features/cart/presentation/pages/catalog_page.dart';
 
 class AppRouter {
   static const String catalog = '/';
